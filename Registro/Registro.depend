@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654302270 source:c:\users\migsauceda\documents\miguel\poo_ejemplos\registro\main.cpp
+	<iostream>
+	"Seccion.h"
+
+1654233108 source:c:\users\migsauceda\documents\miguel\poo_ejemplos\registro\seccion.cpp
+	"Seccion.h"
+
+1654232851 c:\users\migsauceda\documents\miguel\poo_ejemplos\registro\seccion.h
+	<iostream>
+
